@@ -1,8 +1,13 @@
 package com.atguigu.git;
 
-public class Main {
+/**
+ * @author 酸柠檬
+ * description:
+ */
+
+public class HelloGit {
     public static void main(String[] args) {
         System.out.println("Hello git!");
-        System.out.print("分支添加");
+
     }
 }
